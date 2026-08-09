@@ -34,13 +34,16 @@ BouyaAppsSite/
 
 ## 差し替えが必要なURL
 
-`index.html` 内の次のTODOリンクを、確定した実URLへ差し替えてください。
+`index.html` 内の作者GitHub TODOリンクは、アカウントURL確定後に差し替えてください。アプリ2件のリンクは設定済みです。
 
-- `#TODO-POMODORO-GITHUB` — PomodoroOverlayのGitHubリポジトリ
-- `#TODO-POMODORO-RELEASES` — PomodoroOverlayのGitHub Releases
-- `#TODO-SCREENSHOT-GITHUB` — BakusokuScreenshotのGitHubリポジトリ
-- `#TODO-SCREENSHOT-RELEASES` — BakusokuScreenshotのGitHub Releases
 - `#TODO-AUTHOR-GITHUB` — 作者のGitHubプロフィール
+
+設定済みアプリリンク：
+
+- https://github.com/churuhiko/PomodoroOverlay
+- https://github.com/churuhiko/PomodoroOverlay/releases/latest
+- https://github.com/churuhiko/BakusokuScreenshot
+- https://github.com/churuhiko/BakusokuScreenshot/releases/latest
 
 OFUSE（`https://ofuse.me/df740631`）とX（`https://x.com/xbouyax`）は設定済みです。
 
